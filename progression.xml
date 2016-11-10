@@ -1134,8 +1134,13 @@
 		<recipe name="steelGloves" unlock_level="50"/>
 	</crafting_skill>
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 	<crafting_skill name="Mechanical" icon="misc_crafting" description_key="This skill levels the more you work with electronics and mechanical gear. Level 10/15/25 unlocks the chainsaw/nailgun/auger. Level 30 unlocks gear mechanicsm and mechanical parts. Level 100 unlocks minibike." title_key="Mechanical Skills" group="crafting">
+=======
+	
+	<crafting_skill name="Mechanical" icon="misc_crafting" description_key="This skill levels the more you work with electronics and mechanical gear. Level 10/15/25 unlocks the chainsaw/nailgun/auger. Level 30 unlocks gear mechanicsm and mechanical parts. Level 60 unlocks minibike." title_key="Mechanical Skills" group="crafting">
+>>>>>>> parent of 44ae11f... Make minibikes harder to get. Level 100 unlock
 =======
 	
 	<crafting_skill name="Mechanical" icon="misc_crafting" description_key="This skill levels the more you work with electronics and mechanical gear. Level 10/15/25 unlocks the chainsaw/nailgun/auger. Level 30 unlocks gear mechanicsm and mechanical parts. Level 60 unlocks minibike." title_key="Mechanical Skills" group="crafting">
@@ -1201,16 +1206,22 @@
 		<recipe name="gearMechanism" unlock_level="30"/>
 		<recipe name="mechanicalParts" unlock_level="30"/>
 <<<<<<< HEAD
+<<<<<<< HEAD
 		<recipe name="minibikeChassis" unlock_level="100"/>
 		<recipe name="minibikeWheels" unlock_level="100"/>
 		<recipe name="minibikeSeat" unlock_level="100"/>
 		<recipe name="minibikeHandlebars" unlock_level="100"/>
 =======
+=======
+>>>>>>> parent of 44ae11f... Make minibikes harder to get. Level 100 unlock
 		
 		<recipe name="minibikeChassis" unlock_level="60"/>
 		<recipe name="minibikeWheels" unlock_level="60"/>
 		<recipe name="minibikeSeat" unlock_level="60"/>
 		<recipe name="minibikeHandlebars" unlock_level="60"/>
+<<<<<<< HEAD
+>>>>>>> parent of 44ae11f... Make minibikes harder to get. Level 100 unlock
+=======
 >>>>>>> parent of 44ae11f... Make minibikes harder to get. Level 100 unlock
 	</crafting_skill>
 	
